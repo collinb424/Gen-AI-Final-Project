@@ -1,0 +1,10 @@
+/src/compiled_code.txt
+/src/data/
+/src/tmp-data/
+/src/__pycache__/
+/.files
+/.devcontainer
+/.chainlit
+src/.chainlit
+compiled_code.txt
+MilvusVolumes/
